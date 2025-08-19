@@ -1,4 +1,4 @@
-﻿/*
+/*
   [CSS Index]
   
   ---
@@ -468,11 +468,11 @@ h2.home-page-title {
   font-family: "Dosis", sans-serif;
   font-style: normal;
   font-weight: 500;
-  font-size: 12px;
+  font-size: 10px;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 0.40em;
-  color:rgb(242, 83, 0);
+  color: rgb(255, 140, 80); 
   margin: 0 0 0 12px;
 }
 
